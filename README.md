@@ -27,6 +27,7 @@ Transitioning software developer with a strong background in Food Science resear
 - 💼 Bikube Labs 
 - 📚 42 School Lisbon
 -  :mortar_board: PhD in Food Science @Unicamp
+-  Passionate for :dog: :herb: :cactus: :tulip:
 
 
 ## 🛠️ Technical Skills
