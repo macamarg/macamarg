@@ -17,17 +17,18 @@ Here are some ideas to get you started:
 -->
 <!--horizontal divider(gradiant)-->
 
-## Hi there 👋 Marcella Marques here
+# 👋 Hi there, I'm Marcella Marques 
+
+### 🚀 Transitioning Software Developer | Former Food Scientist | Low-Level Programming Enthusiast
 
 <!--About Me-->
 # :mag: About me #
 
-Transitioning software developer with a strong background in Food Science research and academia. Currently expanding my expertise in low-level programming and back-end development
-
-- 💼 Bikube Labs 
+- 🔭 Currently @ Bikube Labs
 - 📚 42 School Lisbon
+- 🧪 Former Post-Doctoral Researcher @ University of Campinas (Food Science)
 -  :mortar_board: PhD in Food Science @Unicamp
--  Passionate for :dog: :herb: :cactus: :tulip:
+-  Passionate about: :dog: :herb: :cactus: :tulip:
 
 
 ## 🛠️ Technical Skills
@@ -53,11 +54,12 @@ Transitioning software developer with a strong background in Food Science resear
 
 
 <td width="50%" align="center">
-  <img src="https://github-readme-stats-alvictal-j8auogyoz-alvictal.vercel.app/api/top-langs/?username=alvictal&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7&hide=ShaderLab,HLSL"/>
+  <img src="https://github-readme-stats-alvictal-j8auogyoz-alvictal.vercel.app/api/top-langs/?username=macamarg&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=7&hide=ShaderLab,HLSL"/>
   </td>
 </tr>
 </table>    
 <!--- stats (end) -->
+
 
 ## 🔗 Connect With Me
 
